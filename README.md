@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **(postrgres)SQL, scikitlearn**
 
-- 🤝 I’m looking for **a data (engineer/analyst/scientist) intership**
+- 🤝 I’m looking for **a data engineer intership**
 
 - 📫 How to reach me **nicolas.stoutzer@hotmail.fr**
 
