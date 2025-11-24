@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sql_srs](https://github.com/Nociception/sql_srs)
 
-- 🌱 I’m currently learning **(postrgres)SQL, scikitlearn**
+- 🌱 I’m currently learning **airflow, GCP**
 
 - 🤝 I’m looking for **a data engineer intership**
 
