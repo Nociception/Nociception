@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Nicolas/Nociception here</h1>
 <h3 align="center">A commited data developer/student at 42 Nice</h3>
 
-- 🔭 I’m currently working on [piscine_datascience](https://github.com/Nociception/piscine_datascience)
+- 🔭 I’m currently working on [sql_srs](https://github.com/Nociception/sql_srs)
 
 - 🌱 I’m currently learning **(postrgres)SQL, scikitlearn**
 
