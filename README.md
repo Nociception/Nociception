@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **a data engineer intership**
 
-- 📫 How to reach me **nicolas.stoutzer@hotmail.fr**
+- 📫 How to reach me **nociception_dev@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
